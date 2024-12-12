@@ -4,7 +4,7 @@
     const celsiusTemperatures = [33.6, 12.34];
 
     // Dirección ip del servidor
-    const serverIpAddress = '123.123.123.123';
+    const serverIp = '123.123.123.123';
 
     // Listado de usuarios
     const users = [{id: 1, email: 'fernando@google.com'},{ id: 2, email: 'juan@google.com' }, { id: 3, email: 'melissa@google.com' }];
