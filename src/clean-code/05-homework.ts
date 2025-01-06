@@ -15,7 +15,7 @@
     function getFruitsByColor( color: string ): string[] {
 
         const colorMap: { [ key: string]: string[] } = {
-            red: ['manzana', 'fresa'],
+            red:    ['manzana', 'fresa'],
             yellow: ['piña', 'banana'],
             purple: ['moras', 'uvas'],
         };
